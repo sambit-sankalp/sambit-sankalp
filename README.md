@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sambit Sankalp
-- 👀 I’m interested in development and competitive programming
+- 👀 I’m interested in development and building products
 - 🌱 I’m currently learning in National Institute of Technology,Rourkela,Odisha
 - 💞️ I’m looking to collaborate with developer team
 - 📫 How to reach me ...
