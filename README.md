@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at sambit.sankalp.offcial@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1sRoztaIu5t-czTvY-OAIo1fgiHrQVKK-/view) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" align="right" width='250px'/>
+<img alt="Night Coding" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" align="right" height='230px'/>
 
 ### 🛠 &nbsp;Tech Stack
 
