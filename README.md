@@ -1,8 +1,8 @@
-<img alt="Night Coding" src="https://res.cloudinary.com/sambitsankalp/image/upload/v1656244146/personal/Hand_20Wave_trmbj2.gif" width='40' align="left" />
+<img alt="Cover Pic" src="https://res.cloudinary.com/sambitsankalp/image/upload/v1656922608/personal/Background_Picture_rqrlmo.png" width='100%' />
+
+<img alt="Hey People" src="https://res.cloudinary.com/sambitsankalp/image/upload/v1656244146/personal/Hand_20Wave_trmbj2.gif" width='40' align="left" />
 <h2>Hey there! I'm Sambit</h2>
 
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
