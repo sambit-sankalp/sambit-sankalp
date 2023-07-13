@@ -12,7 +12,7 @@
 ✍️ &nbsp;I pursue UI/UX Design as hobbies in my free time.\
 💬 &nbsp;Feel free to contact me for tech talks, volunteering, or an interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at sambit.sankalp.offcial@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume](https://drive.google.com/file/d/1sRoztaIu5t-czTvY-OAIo1fgiHrQVKK-/view) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://www.sambitsankalp.tech/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" align="right" height='230px'/>
 
@@ -56,7 +56,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<!-- <a href="https://www.sambitsankalp.tech"><img src="https://img.shields.io/badge/-sambitsankalp.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
+<a href="https://www.sambitsankalp.tech"><img src="https://img.shields.io/badge/-sambitsankalp.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sambit-sankalp/"><img src="https://img.shields.io/badge/-Sambit%20Sankalp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sambit.sankalp.offcial@gmail.com"><img src="https://img.shields.io/badge/- sambit.sankalp.offcial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/sambit_sankalp/"><img src="https://img.shields.io/badge/-@sambit_sankalp_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
